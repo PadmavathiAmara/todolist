@@ -1,0 +1,16 @@
+.display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    margin: 10px;
+    background-color: skyblue;
+}
+.total{
+    padding: 1px;
+    width: 19.8rem;
+}
+
+.MuiButton-root{
+    gap: 1rem;
+}
